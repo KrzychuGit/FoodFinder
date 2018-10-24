@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodFinder</string>
+    <string name="tvTitle">Twoja lokalizacja:</string>
+    <string name="tvAddress">Unknown</string>
+    <string name="tvItemName">Place name</string>
+    <string name="tvIsOpen">Open now</string>
+
+    <string name="tvSettingsRadius">Obszar wyszukiwania: </string>
+
+    <string name="tvRadiusMeters">m</string>
+    <string name="btnSave">Zapisz</string>
+</resources>
