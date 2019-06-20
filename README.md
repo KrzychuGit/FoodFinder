@@ -5,11 +5,11 @@ Writed in Android Studio and using Google Places API
   </p>
   
   <p>
-  <img src="./img/1.png" width="80%"/>
+  <img src="./img/1.png" width="30%"/>
   </p>
   
   <hr>
   <p>
-  <img src="./img/2.png" width="80%"/>
+  <img src="./img/2.png" width="30%"/>
   </p>
   
